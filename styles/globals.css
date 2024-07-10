@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.eclipse {
+  position: absolute;
+  width: 564px;
+  height: 564px;
+  bottom: -420px;
+  right: -240px;
+  border-radius: 564px;
+  transform: rotate(-149.73deg);
+  background: radial-gradient(
+    62.11% 62.11% at 65.86% 48.41%,
+    #485cc7 35.98%,
+    #37517e 100%
+  );
+  z-index: -1;
+}
