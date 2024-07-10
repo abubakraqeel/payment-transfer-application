@@ -6,7 +6,7 @@ const Profile = () => {
   const [cancelled, setCancelled] = useState(true);
   const [savePrompt, setSavePrompt] = useState(false);
   const DUMMY__DETAILS = {
-    firstName: "Shaheer",
+    firstName: "",
     LastName: "Ahamd",
     dob: "18 August 2004",
     phone: "+92 000000000",

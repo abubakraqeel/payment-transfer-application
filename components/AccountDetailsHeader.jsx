@@ -32,10 +32,10 @@ const AccountDetailsHeader = () => {
         className="flex cursor-pointer group hover:bg-[#86a7bd1a] p-2 rounded-lg transition-colors justify-center text-blue items-center gap-2"
       >
         <p className="rounded-full group-hover:bg-white bg-[#86a7bd1a] w-[40px] delay-150 duration-500 transition-colors text-dark-blue font-base grid place-items-center text-base h-[40px]">
-          SH
+          AA
         </p>
         <p className="text-dark-blue sm:block hidden font-medium text-sm">
-          Shaheer Ahmad
+          Abubakr Aqeel
         </p>
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +77,7 @@ const AccountDetailsHeader = () => {
 
         <div className="flex p-2 flex-col  pb-3 border-b-[1px] border-solid border-[#0000001a] w-full  justify-start items-start gap-0">
           <h4 className="text-dark-blue text-2xl sm:text-base font-medium">
-            Shaheer Ahmad
+             Abubakr Aqeel
           </h4>
           <p className="text-gray text-sm font-normal">
             Membership number P35257555

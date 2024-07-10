@@ -9,7 +9,7 @@ const Pay = () => {
     rate: "278.054 GBP",
     recieve: "5,402.59 INR",
     arrivalTime: "30 min",
-    name: "Shaheer Ahmad",
+    name: "Abubakr Aqeel",
     email: "XYZ@gmail.com",
     IBAN: "XXX XXX XXX XXX XXX",
     bankCode: "XXXXXXXXX",
